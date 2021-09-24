@@ -1,0 +1,64 @@
+<!-- please write all your code here
+
+student name:
+matric num:
+section:
+lecturer: -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+  
+    <button type="button" class="btn btn-outline-secondary" id="all_patients">Display All Paitent Records</button> <br><br>
+    <button type="button" class="btn btn-outline-secondary" id="diagnosis_patients">Display Paitent Records Based on Diagnosis</button>
+
+    <br>
+
+    <p>Diagnosis:</p>
+    <div class="form-check">
+        
+        <input class="form-check-input" type="checkbox" value="covid" id="check1">
+        <label class="form-check-label" for="flexCheckDefault">
+         Covid
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" value="non-covid" id="check2" checked>
+        <label class="form-check-label" for="flexCheckChecked">
+            Non-Covid
+        </label>
+      </div>
+
+      <br>
+
+      <button type="button" class="btn btn-outline-secondary">Clear the table display</button>
+
+      <br>
+
+      <h5>Interactive search by Name (Optional)</h5>
+      <input type="text" placeholder="Search..">
+
+      <br>
+      <br>
+
+      <table id="patient_list">
+        <tr>
+          <th>Id</th>
+          <th>Name</th>
+          <th>Gender</th>
+          <th>Emergency Contact</th>
+          <th>Diagnosis</th>
+        </tr>
+      </table>
+
+
+</body>
+<script language="javascript" src="script.js"></script>
+</html>

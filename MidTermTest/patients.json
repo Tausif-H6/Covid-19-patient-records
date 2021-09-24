@@ -1,0 +1,146 @@
+[{
+	"id": "apt101",
+	"name": "MASTURA BINTI AHMAD KAMIL",
+	"gender": "female",
+	"emergencyContactInfo":[
+        {"name":"AHMAD KAMIL BIN HAMZAH","contactNum":"013 5604470","relation":"parent" },
+        {"name":"SITI SALMAH","contactNum":"017 5507340","relation":"cousin" }],
+	"diagnosis":"non-covid"
+}, 
+{
+	"id": "apt202",
+	"name": "HABIBAH BINTI MAHBUB",
+	"gender": "female",
+	"emergencyContactInfo":[
+        {"name":"SHAZWAN MAZIR","contactNum":"012 5446800","relation":"husband" },
+        {"name":"AFFIFAH MAKSUM","contactNum":"015 5507333","relation":"friend" }],
+	"diagnosis": "covid"
+},
+{
+	"id": "apt301",
+	"name": "AHMAD MUBIL AKAMAIL",
+	"gender": "male",
+	"emergencyContactInfo":[
+        {"name":"ABU SAMAH HAMZAH","contactNum":"011 7044738","relation":"kawan" },
+        {"name":"SITI ALIFIAH MAHMEDIY","contactNum":"017 5507340","relation":"ibu" }],
+		"diagnosis": "covid"
+},
+{
+	"id": "apt331",
+	"name": "PIRAVEEN ASHWINATH A/L R JAYABALAN",
+	"gender": "male",
+	"emergencyContactInfo":[
+        {"name":"JAYABALAN","contactNum":"011 7044738","relation":"ayah" },
+        {"name":"NAVEENAN A/L CHANDRAN","contactNum":"017 5507340","relation":"rakan" }],
+		"diagnosis": "covid"
+},
+
+{
+	"id": "apt702",
+	"name": "WONG LI JIARUI",
+	"gender": "male",
+	"emergencyContactInfo":[
+        {"name":"CHUA KEK ANN","contactNum":"013 5604470","relation":"friend" },
+        {"name":"HUDAN ARYAJUDANTA","contactNum":"017 5507340","relation":"cousemate" }],
+	"diagnosis": "non-covid"
+},
+{
+	"id": "apt311",
+	"name": "RICHARD RAVICHANDRAN",
+	"gender": "male",
+	"emergencyContactInfo":[
+        {"name":"JOSUAH TAN","contactNum":"013 5604470","relation":"friend" },
+        {"name":"HAMIEL MAKASRU","contactNum":"017 5507340","relation":"employer" }],
+	"diagnosis": "non-covid"
+},
+{
+	"id": "apt151",
+	"name": "JOSIAH TAN",
+	"gender": "male",
+	"emergencyContactInfo":[
+        {"name":"YONG MENG","contactNum":"013 5604470","relation":"employer" },
+        {"name":"ADAIY MASUDI","contactNum":"017 5507340","relation":"friend" }],
+	"diagnosis": "covid"
+},
+{
+	"id": "apt191",
+	"name": "AFFENDI MAHMUD ALFIAN",
+	"gender": "male",
+	"emergencyContactInfo":[
+        {"name":"RUBERITO MALAKU","contactNum":"013 5604470","relation":"friend" },
+        {"name":"RUHAYSI SAMHALARI","contactNum":"017 5507340","relation":"cousin" }],
+	"diagnosis": "non-covid"
+},
+{
+		"id": "apt221",
+		"name": "PUTRA ABIEL DIMYATI",
+		"gender": "male",
+        "emergencyContactInfo":[
+            {"name":"RASHA SABRIANU SALASAH","contactNum":"013 5604470","relation":"friend" },
+            {"name":"SARBAYA SAHAMADRI","contactNum":"017 5507340","relation":"housemate" }],
+        "diagnosis": "covid"
+},
+{
+	"id": "apt531",
+	"name": "AMMAR KHALED",
+	"gender": "male",
+	"emergencyContactInfo":[
+        {"name":"OMAR BAMUQADM","contactNum":"013 5604470","relation":"parent" },
+        {"name":"BASHIYA MASYITEFY","contactNum":"017 5507340","relation":"cousin" }],
+	"diagnosis": "non-covid"
+},
+{
+	"id": "apt123",
+	"name": "WEI LIEW XIAN",
+	"gender": "male",
+	"emergencyContactInfo":[
+        {"name":"WONG LEE YING","contactNum":"013 5604470","relation":"friend" },
+        {"name":"CHEE WAI MAN","contactNum":"017 5507340","relation":"cousin" }],
+	"diagnosis": "covid"
+},
+{
+	"id": "apt344",
+	"name": "SORAYA YASIEN",
+	"gender": "female",
+	"emergencyContactInfo":[
+        {"name":"QURRATU FILZA BINTI ROSLI","contactNum":"013 5604470","relation":"ibu" },
+        {"name":"SOFIYA HARFIIYAH","contactNum":"017 5507340","relation":"friend" }],
+	"diagnosis": "covid"
+},
+{
+	"id": "apt555",
+	"name": "ABDULJABBAR ABDULLAH",
+	"gender": "male",
+	"emergencyContactInfo":[
+        {"name":"SABIR ABBAS SAIF","contactNum":"013 5604470","relation":"employer" },
+        {"name":"AHMAD TAHMEDUR RAHMAN","contactNum":"017 5507340","relation":"cousin" }],
+	"diagnosis": "non-covid"
+},
+{
+	"id": "apt162",
+	"name": "DIMAS MUHAMMAD ADITYO",
+	"gender": "male",
+	"emergencyContactInfo":[
+        {"name":"SAMSUL ISKANDAR RAFII","contactNum":"013 5604470","relation":"close friend" },
+        {"name":"SALMI YANTI","contactNum":"017 5507340","relation":"classmate" }],
+	"diagnosis": "non-covid"
+},
+{
+	"id": "apt167",
+	"name": "XIANG CHIN WEI",
+	"gender": "male",
+	"emergencyContactInfo":[
+        {"name":"WONG MEI YEE","contactNum":"013 5604470","relation":"friend" },
+        {"name":"NG PEI WEN","contactNum":"017 5507340","relation":"course mate" }],
+	"diagnosis": "covid"
+},
+{
+	"id": "apt451",
+	"name": "IHSANULIATI MUHAMMAD FAUZHAN",
+	"gender": "female",
+	"emergencyContactInfo":[
+        {"name":"MUHAMMAD FAUZHAN AL-BAKRI","contactNum":"013 5604470","relation":"parent" },
+        {"name":"SALMAHIAH RAHMAH","contactNum":"017 5507340","relation":"parent" }],
+	"diagnosis": "non-covid"
+}
+]
